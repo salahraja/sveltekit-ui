@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Skeleton UI starter</title>
+</svelte:head>
+
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
 
 <div class="container h-full mx-auto flex justify-center items-center">
